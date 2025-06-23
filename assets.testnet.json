@@ -753,5 +753,25 @@
     "name": "CRCL",
     "index": 153,
     "type": "Stock"
+  },
+  {
+    "name": "BTCDEGEN",
+    "index": 154,
+    "type": "Degen"
+  },
+  {
+    "name": "ETHDEGEN",
+    "index": 155,
+    "type": "Degen"
+  },
+  {
+    "name": "SOLDEGEN",
+    "index": 156,
+    "type": "Degen"
+  },
+  {
+    "name": "TONDEGEN",
+    "index": 157,
+    "type": "Degen"
   }
 ]
