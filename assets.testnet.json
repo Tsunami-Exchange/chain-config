@@ -773,5 +773,10 @@
     "name": "TONDEGEN",
     "index": 157,
     "type": "Degen"
+  },
+  {
+    "name": "sGIFT",
+    "index": 158,
+    "type": "Indices"
   }
 ]
