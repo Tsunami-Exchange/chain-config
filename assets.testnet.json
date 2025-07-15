@@ -778,5 +778,10 @@
     "name": "sGIFT",
     "index": 158,
     "type": "Indices"
+  },
+  {
+    "name": "PUMP",
+    "index": 159,
+    "type": "Crypto"
   }
 ]
