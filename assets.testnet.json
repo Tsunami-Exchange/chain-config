@@ -783,5 +783,10 @@
     "name": "PUMP",
     "index": 159,
     "type": "Crypto"
+  },
+  {
+    "name": "VERB",
+    "index": 160,
+    "type": "Stock"
   }
 ]
