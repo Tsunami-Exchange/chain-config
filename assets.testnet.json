@@ -788,5 +788,10 @@
     "name": "VERB",
     "index": 160,
     "type": "Stock"
+  },
+  {
+    "name": "WLFI",
+    "index": 161,
+    "type": "Crypto"
   }
 ]
