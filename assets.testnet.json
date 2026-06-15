@@ -813,5 +813,10 @@
     "name": "LINEA",
     "index": 165,
     "type": "Crypto"
+  },
+  {
+    "name": "SPCX",
+    "index": 166,
+    "type": "Stock"
   }
 ]
