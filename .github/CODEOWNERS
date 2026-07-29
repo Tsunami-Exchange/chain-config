@@ -1,0 +1,13 @@
+# Code owners for this repository.
+#
+# Derived from contribution volume: commits to the default branch over the last
+# 52 weeks, restricted to people who currently have write access.
+# Generated 2026-07-29. Review and adjust by hand where ownership differs from
+# raw commit counts.
+#
+# Listed owners are automatically requested for review on every pull request.
+# Their approval is NOT required to merge.
+# https://docs.github.com/articles/about-code-owners
+
+# Share of commits (52w): @stfy 57%
+*   @stfy
