@@ -858,5 +858,100 @@
     "name": "BNBDEGEN",
     "index": 174,
     "type": "Degen"
+  },
+  {
+    "name": "US500",
+    "index": 175,
+    "type": "Indices"
+  },
+  {
+    "name": "NAS100",
+    "index": 176,
+    "type": "Indices"
+  },
+  {
+    "name": "US30",
+    "index": 177,
+    "type": "Indices"
+  },
+  {
+    "name": "US2000",
+    "index": 178,
+    "type": "Indices"
+  },
+  {
+    "name": "GER40",
+    "index": 179,
+    "type": "Indices"
+  },
+  {
+    "name": "EU50",
+    "index": 180,
+    "type": "Indices"
+  },
+  {
+    "name": "VVV",
+    "index": 181,
+    "type": "Crypto"
+  },
+  {
+    "name": "XPL",
+    "index": 182,
+    "type": "Crypto"
+  },
+  {
+    "name": "SNDK",
+    "index": 183,
+    "type": "Stock"
+  },
+  {
+    "name": "LIT",
+    "index": 184,
+    "type": "Crypto"
+  },
+  {
+    "name": "CC",
+    "index": 185,
+    "type": "Crypto"
+  },
+  {
+    "name": "ETHFI",
+    "index": 186,
+    "type": "Crypto"
+  },
+  {
+    "name": "MRVL",
+    "index": 187,
+    "type": "Stock"
+  },
+  {
+    "name": "LITE",
+    "index": 188,
+    "type": "Stock"
+  },
+  {
+    "name": "SKHY",
+    "index": 189,
+    "type": "Stock"
+  },
+  {
+    "name": "INTC",
+    "index": 190,
+    "type": "Stock"
+  },
+  {
+    "name": "CRWV",
+    "index": 191,
+    "type": "Stock"
+  },
+  {
+    "name": "BABA",
+    "index": 192,
+    "type": "Stock"
+  },
+  {
+    "name": "ORCL",
+    "index": 193,
+    "type": "Stock"
   }
 ]
